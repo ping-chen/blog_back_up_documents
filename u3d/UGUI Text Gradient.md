@@ -24,8 +24,6 @@ https://github.com/WestHillApps/uGUI-Effect-Tool
 ```
 using System;
 using System.Collections.Generic;
-using System.Text;
-using UnityEngine.Serialization;
 
 namespace UnityEngine.UI
 {
